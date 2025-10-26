@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
   # SoupMate
 
@@ -9,3 +10,6 @@
 
   Run `npm run dev` to start the development server.
   
+=======
+# PRDKE_SoupMate
+>>>>>>> 3a46230718d5aba2180c2ed5411fdf88a12d85cc
